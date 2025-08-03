@@ -14,7 +14,6 @@ A real-world Django REST Framework API that connects **companies** with **job ap
 - ✅ Role-based access control
 - ✅ Clean API structure using DRF (Django REST Framework)
 
----
 
 📂 Endpoints Summary
 
